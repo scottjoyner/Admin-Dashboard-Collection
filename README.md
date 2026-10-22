@@ -11,3 +11,10 @@ A repository of dashboard-oriented project assets and examples. The repository i
 ## Project status
 
 This root README is an orientation page, not a claim that every example has been built or tested. Add a per-example index and verified setup commands as the individual projects are reviewed.
+
+## Repository links
+
+- [Browse the default-branch files](https://github.com/scottjoyner/Admin-Dashboard-Collection/tree/master)
+- [Review repository history](https://github.com/scottjoyner/Admin-Dashboard-Collection/commits/master)
+
+The paths above are for this GitHub checkout; they do not establish a working build or deployment.
